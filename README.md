@@ -12,4 +12,4 @@ CatScan is a sipmle & convenient terminal-based IP address lookup tool. This app
 
 - **Color-coded Report:** - For easy readability, the IP address information is color-coded and neatly printed within the terminal.
 
-- **Address Data: CatScan:** - Fetches comprehensive IP data encompassing geographical location (continent, country, region, city), timezone, ISP, and more.** - CatScan fetches comprehensive IP data encompassing geographical location (continent, country, region, city), timezone, ISP, and more.
+- **Address Data: CatScan:** - Fetches comprehensive IP data encompassing geographical location (continent, country, region, city), timezone, ISP, and more.
