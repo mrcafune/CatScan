@@ -1,9 +1,8 @@
 # 🛰️ CatScan - Simple Terminal-Based IP Lookup
 
-https://kittentechnologies.com
-
 <img width="464" alt="Screenshot 2023-07-29 at 10 23 24 PM" src="https://github.com/mrcafune/CatScan/assets/101951803/6e07da4a-5519-4d4a-a19e-395e4606bb35">
 
+https://kittentechnologies.com
 
 CatScan is a sipmle & convenient terminal-based IP address lookup tool. This application retrieves information about an IP address including its country of origin, city, timezone, ISP, ZIP Code and more.
 
